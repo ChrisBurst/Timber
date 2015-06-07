@@ -1,0 +1,41 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 640 (ID=0xfc0)
+    Vendor:   NVIDIA
+    VRAM:     973 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ChaosDX1\Desktop\Games Created 2015\Collect-A-Thon\Collect-A-Thon Prototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ChaosDX1\Desktop\Games Created 2015\Collect-A-Thon\Collect-A-Thon Prototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ChaosDX1\Desktop\Games Created 2015\Collect-A-Thon\Collect-A-Thon Prototype_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\ChaosDX1\Desktop\Games Created 2015\Collect-A-Thon\Collect-A-Thon Prototype_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ChaosDX1\Desktop\Games Created 2015\Collect-A-Thon\Collect-A-Thon Prototype_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ChaosDX1\Desktop\Games Created 2015\Collect-A-Thon\Collect-A-Thon Prototype_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ChaosDX1\Desktop\Games Created 2015\Collect-A-Thon\Collect-A-Thon Prototype_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\ChaosDX1\Desktop\Games Created 2015\Collect-A-Thon\Collect-A-Thon Prototype_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ChaosDX1\Desktop\Games Created 2015\Collect-A-Thon\Collect-A-Thon Prototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ChaosDX1\Desktop\Games Created 2015\Collect-A-Thon\Collect-A-Thon Prototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.097 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\ChaosDX1\Desktop\Games Created 2015\Collect-A-Thon\Collect-A-Thon Prototype_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Platform assembly: C:\Users\ChaosDX1\Desktop\Games Created 2015\Collect-A-Thon\Collect-A-Thon Prototype_Data\Managed\System.dll (this message is harmless)
+No idle animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No walk animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No run animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No jump animation found and the character has canJump enabled. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+

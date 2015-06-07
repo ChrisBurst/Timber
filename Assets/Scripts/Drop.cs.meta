@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 89408390b43026547ba255682170f5e3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Coin: {instanceID: 0}
+  - LogStack: {fileID: 196702, guid: 106b600f6a214124b927272035bc0413, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

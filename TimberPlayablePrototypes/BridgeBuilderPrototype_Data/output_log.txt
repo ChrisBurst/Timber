@@ -1,0 +1,126 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 640 (ID=0xfc0)
+    Vendor:   NVIDIA
+    VRAM:     973 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ChaosDX1\Documents\Collect-A-Thon\TimberPlayablePrototypes\BridgeBuilderPrototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ChaosDX1\Documents\Collect-A-Thon\TimberPlayablePrototypes\BridgeBuilderPrototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ChaosDX1\Documents\Collect-A-Thon\TimberPlayablePrototypes\BridgeBuilderPrototype_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\ChaosDX1\Documents\Collect-A-Thon\TimberPlayablePrototypes\BridgeBuilderPrototype_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ChaosDX1\Documents\Collect-A-Thon\TimberPlayablePrototypes\BridgeBuilderPrototype_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ChaosDX1\Documents\Collect-A-Thon\TimberPlayablePrototypes\BridgeBuilderPrototype_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ChaosDX1\Documents\Collect-A-Thon\TimberPlayablePrototypes\BridgeBuilderPrototype_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\ChaosDX1\Documents\Collect-A-Thon\TimberPlayablePrototypes\BridgeBuilderPrototype_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ChaosDX1\Documents\Collect-A-Thon\TimberPlayablePrototypes\BridgeBuilderPrototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ChaosDX1\Documents\Collect-A-Thon\TimberPlayablePrototypes\BridgeBuilderPrototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.212 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\ChaosDX1\Documents\Collect-A-Thon\TimberPlayablePrototypes\BridgeBuilderPrototype_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Platform assembly: C:\Users\ChaosDX1\Documents\Collect-A-Thon\TimberPlayablePrototypes\BridgeBuilderPrototype_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+No idle animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No walk animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No run animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No jump animation found and the character has canJump enabled. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+UnloadTime: 3.518991 ms
+No idle animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No walk animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No run animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No jump animation found and the character has canJump enabled. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 1.406663 ms (FindLiveObjects: 0.033588 ms CreateObjectMapping: 0.013373 ms MarkObjects: 0.209615 ms  DeleteObjects: 0.281457 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+UnloadTime: 1.100326 ms
+No idle animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No walk animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No run animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No jump animation found and the character has canJump enabled. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 1.488146 ms (FindLiveObjects: 0.046339 ms CreateObjectMapping: 0.011818 ms MarkObjects: 0.293275 ms  DeleteObjects: 0.136219 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+UnloadTime: 1.120230 ms
+No idle animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No walk animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No run animation found. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+No jump animation found and the character has canJump enabled. Turning off animations.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 1.184296 ms (FindLiveObjects: 0.027368 ms CreateObjectMapping: 0.011507 ms MarkObjects: 0.226409 ms  DeleteObjects: 0.118802 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
